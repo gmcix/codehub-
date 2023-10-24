@@ -1,0 +1,21 @@
+* { 
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .uppercase {
+    text-transform: uppercase;
+  }
+
+
+
+#tablecode 
+  
+table, th, td {
+    border: 1px solid;
+  }
+
+  table {
+    border-collapse: collapse;
+  }
+
+  td {color: grey;}
